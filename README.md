@@ -1,7 +1,10 @@
 ### Hi everyone  👋
 
 I'm Mouad Aloulou a computer science engineer student.I'm interested in Devops practices and Cloud adoption.In this profile,I share the projects I did in my learning journey.
-Find out more about me & feel free to connect with me: 
+Feel free to connect with me: <br/>
+
+Gmail: alouloumouad@gmail.com <br/>
+Linkedin: www.linkedin.com/in/mouad-aloulou
 
 
 
