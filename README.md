@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi everyone  👋
+
+I'm Mouad Aloulou a computer science engineer student.I'm interested in Devops practices and Cloud adoption.In this profile,I share the projects I did in my learning journey.
+Find out more about me & feel free to connect with me: 
+
+
 
 <!--
 **MouadAl/MouadAl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
